@@ -58,6 +58,18 @@ Upload a resume (PDF or TXT)
 
 View AI feedback in the UI
 
+## 🖼️ Project Screenshots
+
+### 🔹 Upload Resume Interface
+![Upload Screen](screenshots/upload_ui.png)
+
+### 🔹 AI Feedback Display
+![Feedback Result](screenshots/feedback_ui.png)
+
+### 🔹 View History Feature
+![View History](screenshots/view_history.png)
+
+
 📌 Future Improvements
 Job description matching
 
